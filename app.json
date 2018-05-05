@@ -1,0 +1,17 @@
+{
+  "name": "You2PHP",
+  "description": "A free and open-source youtube video proxy script[Written in PHP]",
+  "website": "https://github.com/onplus/y21080",
+  "repository": "https://github.com/onplus/y21080",
+  "success_url": "/index.php",
+  "env":{
+    "APIKEY":{
+      "description": "Youtube API V3 KEY",
+      "value": ""
+    },
+    "SITE_NAME":{
+      "description": "站点名字",
+      "value": "Y2"
+    }
+  }
+}
